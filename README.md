@@ -19,7 +19,7 @@ Installation
 Requirements: Python 3.8+, pip
 
 # Clone the repository
-git clone https://github.com/yourusername/ai-pathfinder.git
+git clone https://github.com/Ali-ilA-irf/Ai-Pathfinder.git
 cd ai-pathfinder
 
 # Install dependencies
